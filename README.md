@@ -44,10 +44,13 @@ Country: Change the value of the $country variable to fetch news from a differen
 Styling: Customize the CSS in the <style> block to change the appearance of the news elements.
 
 **Additional Resources**
+
 NewsAPI Documentation : https://newsapi.org/docs
+
 PHP cURL Documentation : https://newsapi.org/docs/client-libraries/php
 
 **Video Guide**
+
 For a detailed walkthrough, please refer to the video guide included in the project directory. The video demonstrates how to set up and deploy the NewsWebsite application.
 
 **Note**:Video Attached in files
